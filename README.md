@@ -9,13 +9,13 @@ Web-based collaborative threat intelligence and incident response platform that 
 
 ## ✨ Key Features
 
-1.🔍 **Rule-Based IOC Extraction Engine** — automatically scans incident submissions to extract indicators of compromise (IPs, domains, hashes, etc.)
-2.🎯 **MITRE ATT&CK Mapping** — classifies detected threats against standardized adversary tactics and techniques
-3.📊 **Automated Severity Scoring** — calculates and assigns risk levels to incoming incidents to support faster triage
-4.🚨 **Real-Time Alerts** — notifies organization admins of new or high-priority threats and incidents
-5.🤝 **Cross-Organization Threat Sharing** — enables multiple organizations to collaboratively share and act on threat intelligence
-6.🔐 **Role-Based Access Control** — dedicated dashboards and permissions for employees, security experts, and organization administrators
-7.📁 **End-to-End Case Management** — from incident submission to expert review to resolution, fully tracked within the platform
+🔍 **Rule-Based IOC Extraction Engine** — automatically scans incident submissions to extract indicators of compromise (IPs, domains, hashes, etc.)
+🎯 **MITRE ATT&CK Mapping** — classifies detected threats against standardized adversary tactics and techniques
+📊 **Automated Severity Scoring** — calculates and assigns risk levels to incoming incidents to support faster triage
+🚨 **Real-Time Alerts** — notifies organization admins of new or high-priority threats and incidents
+🤝 **Cross-Organization Threat Sharing** — enables multiple organizations to collaboratively share and act on threat intelligence
+🔐 **Role-Based Access Control** — dedicated dashboards and permissions for employees, security experts, and organization administrators
+📁 **End-to-End Case Management** — from incident submission to expert review to resolution, fully tracked within the platform
 
 ## 🏗️ Tech Stack
 
